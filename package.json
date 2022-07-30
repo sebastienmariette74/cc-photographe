@@ -1,0 +1,22 @@
+{
+  "name": "evaluation-charles-cantin-photographe",
+  "version": "1.0.0",
+  "description": "Etapes : - j'ai refait un git init, ça coute rien - git add . - git commit -m\"first commit\" - je créé  - dans le fichier gitignore j'ai enlevé netilify, et mis public,",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastienmariette74/cc-photographe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastienmariette74/cc-photographe/issues"
+  },
+  "homepage": "https://github.com/sebastienmariette74/cc-photographe#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
